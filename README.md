@@ -7,3 +7,5 @@ The goal of this project is to provide a simple and well_commented implementatio
 ## Acknowledgement:
 
 Most of the code is referred from the Vision Transformer in PyTorch tutorial by jankrepl. The tutorial can be found [here](https://youtu.be/ovB0ddFtzzA?feature=shared)
+
+The code for visualizing the attention maps is referred from the Pytorch reimplementation of Vision Transformer by jeonsworld. The code can be found [here](https://github.com/jeonsworld/ViT-pytorch/tree/main)
